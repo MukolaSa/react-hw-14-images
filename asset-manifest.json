@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MukolaSa/react-hw-14-images/static/css/main.6fd9d624.css",
+    "main.js": "/MukolaSa/react-hw-14-images/static/js/main.8fb5989d.js",
+    "index.html": "/MukolaSa/react-hw-14-images/index.html",
+    "main.6fd9d624.css.map": "/MukolaSa/react-hw-14-images/static/css/main.6fd9d624.css.map",
+    "main.8fb5989d.js.map": "/MukolaSa/react-hw-14-images/static/js/main.8fb5989d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd9d624.css",
+    "static/js/main.8fb5989d.js"
+  ]
+}
